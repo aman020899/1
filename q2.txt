@@ -1,0 +1,2 @@
+HTML comments are enclosed within <! – and –>.Comments are not displayed in the browsers.
+They provide explanations, reminders, or instructions that are invisible on the rendered webpage.

@@ -1,0 +1,7 @@
+Tag:---Tag are the starting and ending parts of an HTML element.
+ They begin with < symbol and end with > symbol. Whatever is written inside < and > are called tags.
+ example:--- <h1>some text</h1> in this example. h1 is tag.
+
+ Element:---Element consists of both the opening and closing tags as well as what’s inside those tags.
+ It normally consists of some structure that’s used to define the respective tags.
+ example:--- <h1>some text</h1> 
